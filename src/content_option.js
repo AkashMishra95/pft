@@ -7,16 +7,16 @@ const meta = {
 const introdata = {
     title: " Hi I’m Akash Mishra",
     animated: {
-        first: " I am a Author",
+        first: " I am an Author",
         second: "I work in IT ",
-        third: " I Am an Artist ",
+        third: " I am an Artist ",
     },
     description: "Am an author lives in Pune , who find himself fall in between work & art",
     your_img_url: "https://i.postimg.cc/tT8hWBSV/Whats-App-Image-2024-04-18-at-12-10-58-AM.jpg",
 };
 
 const dataabout = {
-    title: "A bit about my self",
+    title: "A bit about my self ",
     aboutme: "Akash Mishra is currently working as a Senior Infrastructure Engineer. He has spent most of his life in Lucknow and is currently based in Pune. He is a graduate from City Academy Degree College in Computer Application and Public Administration. His 4 years of IT career started with HCL and is currently going fine with LTIMindtree. Akash is a big time foody. His love for food and workout is unbeatable. He loves sketching in his free time. Akash’s love for writing started with writing lyrics.",
 };
 const worktimeline = [{
@@ -121,6 +121,7 @@ const socialprofils = {
     linkedin: "https://www.linkedin.com/in/akash-mishra-08b670190",
     twitter: "https://twitter.com/AkashMishra_95",
     instagram: "https://www.instagram.com/akash_the_great_1?utm_source=qr&igsh=MWFhOG00Y2dzbjNqNA==",
+    telegram:"https://t.me/theakashmishraauthor"
 };
 export {
     meta,
