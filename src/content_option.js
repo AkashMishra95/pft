@@ -1,7 +1,7 @@
 const logotext = "Akash ";
 const meta = {
     title: "Akash Mishra",
-    description: "I’m Akash Mishra , work as Cloud Infra Engineer in India",
+    description: "I’m Akash Mishra , work as Senior Infra Engineer in India",
 };
 
 const introdata = {
@@ -11,7 +11,7 @@ const introdata = {
         second: "I work in IT ",
         third: " I am an Artist ",
     },
-    description: "Am an author lives in Pune , who find himself fall in between work & art",
+    description: "Am an author lives in Lucknow , who find himself fall in between work & art",
     your_img_url: "https://i.postimg.cc/ncQwRFP6/Whats-App-Image-2024-04-20-at-20-37-56.jpg",
 };
 
@@ -102,6 +102,17 @@ const dataportfolio = [{
         description: "This anthology contains four unique short stories. These stories differ in the feelings and emotions they evoke. This series of short stories will explore a range of themes, including self-love, friendship, revenge, acceptance, family values, and, above all, the power of true love. ",
         link: "https://notionpress.com/read/pretty-attachments  ",
     },
+    {
+        img: "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "  UPCOMING PUBLISH SOON \n  Unique Friend 2 : My well-wisher  ",
+        
+    },
+    {
+        img: "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "  UPCOMING PUBLISH SOON \n  Deal 2 : Every ending has a new beginning ",
+        
+    },
+   
 ];
 
 const contactConfig = {
