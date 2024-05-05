@@ -11,7 +11,7 @@ const introdata = {
         second: "I work in IT ",
         third: " I am an Artist ",
     },
-    description: "Am an author lives in Lucknow , who find himself fall in between work & art",
+    description: "I am an author from the city of nawabs , Lucknow , who find himself fall in between technology & art.",
     your_img_url: "https://i.postimg.cc/ncQwRFP6/Whats-App-Image-2024-04-20-at-20-37-56.jpg",
 };
 
@@ -102,17 +102,19 @@ const dataportfolio = [{
         description: "This anthology contains four unique short stories. These stories differ in the feelings and emotions they evoke. This series of short stories will explore a range of themes, including self-love, friendship, revenge, acceptance, family values, and, above all, the power of true love. ",
         link: "https://notionpress.com/read/pretty-attachments  ",
     },
+    
     {
-        img: "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        description: "  UPCOMING PUBLISH SOON \n  Unique Friend 2 : My well-wisher  ",
-        
+        img: "https://i.postimg.cc/HxpYvLr8/uf1.jpg",
+        description: " Coming Soon Unique Friend 2: My Well-Wisher ",
+        link: "https://notionpress.com/read/pretty-attachments  ",
     },
+  
     {
-        img: "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        description: "  UPCOMING PUBLISH SOON \n  Deal 2 : Every ending has a new beginning ",
-        
+        img: "https://i.postimg.cc/52kZv2VS/deal00.jpg",
+        description: " Coming Soon DEAL 2: Every ending has a new beginning ",
+        link: "https://notionpress.com/read/pretty-attachments  ",
     },
-   
+
 ];
 
 const contactConfig = {
@@ -131,7 +133,7 @@ const socialprofils = {
     facebook: "https://facebook.com/akashthegreatmishra",
     linkedin: "https://www.linkedin.com/in/akash-mishra-08b670190",
     twitter: "https://twitter.com/AkashMishra_95",
-    instagram: "https://www.instagram.com/akash_the_great_1?utm_source=qr&igsh=MWFhOG00Y2dzbjNqNA==",
+    instagram: "https://www.instagram.com/AUTHOR_AKASHMISHRA",
     telegram:"https://t.me/theakashmishraauthor"
 };
 export {
