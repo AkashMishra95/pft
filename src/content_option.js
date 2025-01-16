@@ -20,9 +20,9 @@ const dataabout = {
     aboutme: "Akash Mishra is currently working as a Senior Infrastructure Engineer. He has spent most of his life in Lucknow and is currently based in Pune. He is a graduate from City Academy Degree College in Computer Application and Public Administration. His 4 years of IT career started with HCL and is currently going fine with LTIMindtree. Akash is a big time foody. His love for food and workout is unbeatable. He loves sketching in his free time. Akash’s love for writing started with writing lyrics.",
 };
 const worktimeline = [{
-    jobtitle: "Senior Cloud Infra Engineer",
+    jobtitle: "Senior Infrastructure Engineer",
     where: "LTI Mindtree , Pune",
-    date: "Feb 2024 - Present",
+    date: "Feb 2024 - Nov 2024",
 },{
         jobtitle: "Senior Infrastructure Engineer",
         where: "Nium , Bangalore",
@@ -45,7 +45,7 @@ const skills = [{
         value: 85,
     },
     {
-        name: "AWS",
+        name: "Azure DevOps",
         value: 85,
     },
     {
@@ -57,18 +57,22 @@ const skills = [{
         value: 80,
     },
     {
-        name: "Jenkins",
+        name: "Security",
         value: 85,
     },
 ];
 
 const services = [{
         title: "Senior Infrastructure Engineer",
-        description: " Infrastructure and Production Support  tools O365, Jira, Sophos, Patch Manager, Zscaler, AWS, Azure, Azure Active Directory, Zoom, Slack, Sprinto, Abnormal Security, Hexnode, Okta cloud, Freshdesk",
+        description: "Expertise in Azure DevOps | IAM | Security | Infrastructure | Cloud | Azure Entra ID| Backup and Storage| Virtual Machine | Scripting. ",
     },
     {
-        title: "Senior Technical Advisor I",
-        description: " Microsoft O365 Microsoft 365 Support Engineer Troubleshooting and resolving cases related to Hyper V, VMware IP/Networking/ DNS/ DHCP.MFA/ SSO/ ADFS/ PHS/ PTA. PowerShell scripting. ",
+        title: "Senior Infrastructure Engineer",
+        description: "Expertise in Azure |O365 | Azure Active Directory | Intune/MDM | Jira | Sophos | Patch Manager | Zscaler | Slack| Zoom | Sprinto | Okta | Hex Node | Workspace | Virtual Machine | Security | Procurement Express | Backup and Storage. ",
+    },
+    {
+        title: "Microsoft 365 Support Engineer",
+        description: "Expertise in Azure | O365 | Security | Exchange Online | SharePoint Online | Teams Online | OneDrive for Business | Azure Active Directory | Intune | Networking | OAuth | Window Server | Virtual Machine | PowerShell | Billings | Backup and Storage. ",
     },
     {
         title: "Senior Customer Exceutive",
@@ -83,13 +87,13 @@ const dataportfolio = [{
     },
     {
         img: "https://i.postimg.cc/3xRCmc6q/png.png",
-        description: "This book delves into the life of Akash, a talented musician, and explores his complex relationship with his father. This story reveals the incredible sacrifices made by both a father and son, highlighting the strength of their bond.         ",
+        description: "This book delves into the life of Akash, a talented musician, and explores his complex relationship with his father. This story reveals the incredible sacrifices made by both a father and son, highlighting the strength of their bond.  ",
         link: "https://notionpress.com/read/deal",
     },
     {
         img: "https://i.postimg.cc/sg4dG1km/The-promise-cover-page.png",
-        description: "This book gives us insight into Kaynaat and Aryan’s love story. This story details Aryan’s journey from a librarian to a successful and famous author and the role of Kaynaat in his life.        ",
-        link: "https://notionpress.com/read/the-promise-1398936",
+        description: "This book gives us insight into Kaynaat and Aryan’s love story. This story details Aryan’s journey from a librarian to a successful and famous author and the role of Kaynaat in his life.  ",
+        link: "https://www.amazon.in/Promise-Akash-Mishra-ebook/dp/B0DT1CN4KV/ref=sr_1_1?crid=2LM3Z8NNDVS2E&dib=eyJ2IjoiMSJ9.zT9iI015sfQ9WCOkkkE7bAzcqxQAbGh-FvrFG5u2r-ZjNz1sxs3mZrd_uCoYkEBt_mVu8vOHXYz2NKf_Ff1E3sX1z_DbSKFdAkqx2t_lr3g.FAE6wrL6gxGdcGfLtz_VNySEvEGDL0P6WW4APDpJRAo&dib_tag=se&keywords=the+promise+akash+mishra&qid=1737026711&s=digital-text&sprefix=the+promise+akash+mishr%2Cdigital-text%2C246&sr=1-1",
     },
     {
         img: "https://i.postimg.cc/zf4LLtZT/No-cheating-cover-page-405-KB.jpg   ",
@@ -98,21 +102,21 @@ const dataportfolio = [{
     },
 
     {
-        img: "https://i.postimg.cc/PxcBnDDX/Pretty-Attachments-cover-page-205-KB.jpg",
-        description: "This anthology contains four unique short stories. These stories differ in the feelings and emotions they evoke. This series of short stories will explore a range of themes, including self-love, friendship, revenge, acceptance, family values, and, above all, the power of true love. ",
-        link: "https://notionpress.com/read/pretty-attachments  ",
+        img: "https://i.postimg.cc/gc3CTMQK/STASK-cover-page.png",
+        description: "By delving into this tale, readers gain insight into a captivating friendship, while also being reminded of the incredible selflessness that people can exhibit and the extraordinary measures they will take for each other. ",
+        link: "https://www.amazon.in/dp/B0DSV8MFPB ",
     },
     
     {
         img: "https://i.postimg.cc/HxpYvLr8/uf1.jpg",
-        description: " Coming Soon Unique Friend 2: My Well-Wisher ",
-        link: "https://notionpress.com/read/pretty-attachments  ",
+        description: "This story is brimming with raw passion, deep love, consuming obsession, intense hatred, and overwhelming jealousy. It demonstrates the lengths one will go to appease their own falsehoods. ",
+        link: "https://notionpress.com/read/unique-friend-2?srsltid=AfmBOoooknNZe5koY8w3XmNgBs4sTD24myO8RPKFL1ldLPgUNZsaaUlW ",
     },
   
     {
         img: "https://i.postimg.cc/52kZv2VS/deal00.jpg",
         description: " Coming Soon DEAL 2: Every ending has a new beginning ",
-        link: "https://notionpress.com/read/pretty-attachments  ",
+        link: "",
     },
 
 ];
